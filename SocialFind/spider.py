@@ -1,3 +1,5 @@
+#Author Nandu Pokhrel
+
 from urllib.request import *
 from link_finder import LinkFinder
 from domain import *
