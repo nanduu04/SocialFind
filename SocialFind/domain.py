@@ -1,3 +1,5 @@
+#author Nandu Pokhrel
+
 from urllib.parse import urlparse
 
 
