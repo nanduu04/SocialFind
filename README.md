@@ -24,4 +24,4 @@ $ {'twitter': 'https://twitter.com/dovecanada', 'facebook': 'https://www.faceboo
 	
 ```
 
-##Author Bala Aryal
+##Author Nandu Pokhrel
